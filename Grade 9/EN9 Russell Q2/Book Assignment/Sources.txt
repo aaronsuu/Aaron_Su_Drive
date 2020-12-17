@@ -1,14 +1,18 @@
-Video:
-'The Hunger Games' Movie (2008)
+Videos:
+  'The Hunger Games' Movie (2008)
 Lions Gate Enterainment in Co-Production with Color Force
 
-Spooky Forest Video:
-'www.youtube.com/watch?v=58dAcjgtfbk'
+  Spooky Forest Video:
+  'www.youtube.com/watch?v=58dAcjgtfbk'
+  
+   Drone Village Shot:
+   'https://www.youtube.com/watch?v=DzCNhFo70uI'
 
 
 Pictures:
 'https://inthesetimes.com/article/in-defense-of-peeta-mellark'
 
+All images/videos belong to their respective owners. 
 
 Editing Software:
 Adobe Premiere Pro 2020 + iMovie Trailer Template
