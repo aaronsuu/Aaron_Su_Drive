@@ -1,3 +1,0 @@
-// Execute this on Terminal
-sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Florella's Macbook Air"
-
